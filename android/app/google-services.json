@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733744018630",
+    "project_id": "pawsguardapp",
+    "storage_bucket": "pawsguardapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733744018630:android:e86403391c2be74f9d13c7",
+        "android_client_info": {
+          "package_name": "com.example.pawsguardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_vkPzSpdCNrCnuZf1K3kUvIYE-8ivpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
